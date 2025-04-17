@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 21/1031691  |  Fause Carlos Mascarenhas Lustosa Junior |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0116072  |  Raphaela Guimarães de Araujo dos Santos |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
